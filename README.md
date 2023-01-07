@@ -2,7 +2,7 @@
   
 <a href='https://bmhatch.github.io/cssdisplaycheatsheet/'>CSS display cheat sheet</a> is a project I completed as part of the Codecademy Full Stack Engineer Path course I am taking.
   
-I had a lot of fun working on this, and learned several HTML and CSS skills through the process. 
+I had a lot of fun working on this and learned several HTML and CSS skills through the process. 
   
 I first made a rough mockup of the website I wanted to build utilizing my graphic design background and Adobe Illustrator:
   
