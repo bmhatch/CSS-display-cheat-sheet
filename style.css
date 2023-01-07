@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: snow;
+    color: midnightblue;
+    word-spacing: 1px;
+    line-height: 1.4;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.h2 {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.p {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+code {
+    background: gainsboro;
+    border-radius: 4px;
+    padding: .125rem .25rem;
+    width: fit-content;
+    font-weight: bold;
+}
+
+table {
+    display: table;
+    margin: 0px auto;
+    width: 50%;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
