@@ -1,6 +1,6 @@
 # CSS display cheat sheet
   
-<a href='https://bmhatch.github.io/CSS-display-cheat-sheet'>CSS display cheat sheet</a> is a project I completed as part of the Codecademy Full Stack Engineer Path course I am taking.
+<a href='https://bmhatch.github.io/CSS-display-cheat-sheet'>CSS display cheat sheet</a> is a simple static website I built as part of the Codecademy Full Stack Engineer Path course I am taking.
   
 I had a lot of fun working on this and learned several HTML and CSS skills through the process. 
   
